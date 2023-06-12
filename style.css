@@ -1,0 +1,21 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: wheat;
+}
+
+h1{
+  color: darkred;
+}
+
+h2{
+  color: darkblue;
+}
+
+p{
+  color: rebeccapurple;
+}
+
+a{
+  color: darkslategray;
+}
